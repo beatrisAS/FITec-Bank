@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "techBack/src/main/java/com/example/tech/bank/MinhasClasses",
+        "techBack/src/main/java/com/example/tech/bank"
+    ]
+}
